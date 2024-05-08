@@ -1,4 +1,11 @@
 {
   "name": "TodoAppReactNative",
-  "displayName": "TodoAppReactNative"
+  "displayName": "TodoAppReactNative",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d4076ee6-d287-4c43-a38e-2cc848c922c8"
+      }
+    }
+  }
 }
