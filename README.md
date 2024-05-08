@@ -1,3 +1,9 @@
+
+![todo5](https://github.com/furkanislek/todo-react-native/assets/76527169/9873a044-9983-48bd-9baa-174cf835f39c)
+![todo4](https://github.com/furkanislek/todo-react-native/assets/76527169/68718dfe-c3f7-47cd-afc6-5417ce76503a)
+![todo3](https://github.com/furkanislek/todo-react-native/assets/76527169/f3383342-36f2-4b30-922b-6fb97215b5c3)
+![todo2](https://github.com/furkanislek/todo-react-native/assets/76527169/a1389628-31ba-4ecd-aeb5-aaeb44af7370)
+![todo1](https://github.com/furkanislek/todo-react-native/assets/76527169/64486322-e28b-4749-89c9-5d7f59c34929)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
